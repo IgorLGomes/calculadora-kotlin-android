@@ -69,7 +69,7 @@ A regra de negócio segue o diagrama UML definido na atividade:
 <img src="screenshots/app.jpeg" width="300"/>
 
 ---
-## 🚀 Como rodar localmente
+## Como rodar localmente
 
 ### Pré-requisitos
 
@@ -94,7 +94,7 @@ git clone https://github.com/IgorLGomes/calculadora-kotlin-android.git
 
 ---
 
-## 📚 Contexto Acadêmico
+## Contexto Acadêmico
 
 | Campo | Detalhe |
 |---|---|
@@ -104,6 +104,6 @@ git clone https://github.com/IgorLGomes/calculadora-kotlin-android.git
 
 ---
 
-## 📄 Licença
+## Licença
 
 Projeto acadêmico — sem licença de distribuição definida.
